@@ -1,0 +1,2 @@
+# Preserve os bytes usados no manifesto, inclusive em clones no Windows.
+* text eol=lf

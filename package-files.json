@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": ".agents/skills/memory-sync/assets/Decisões.md",
+      "sha256": "5f756dfdca3bb1a9df3c8c87555f416faf1f42f545cea39cae37e0f99d6365c0"
+    },
+    {
+      "path": ".agents/skills/memory-sync/assets/Pendências.md",
+      "sha256": "25f1a55a4c300d76663d19bd7f25481d08eb8f460fa186b0406b8f70f3afca4c"
+    },
+    {
+      "path": ".agents/skills/memory-sync/assets/Registros.md",
+      "sha256": "1f3219e78fc023bff3f7ff8f3dc2627442f9a795dd0c005a7656bf3ea7c0c4f0"
+    },
+    {
+      "path": ".agents/skills/memory-sync/assets/Visão geral.md",
+      "sha256": "d7dad90b63ecac5f0e9806fce64b23430c0d7364670b00f5f98c813d92234781"
+    },
+    {
+      "path": ".agents/skills/memory-sync/references/persistencia.md",
+      "sha256": "e8f0ba23f0347e3ee903f3bbd2817b74715a13da44ade32158f698a2c7d690ea"
+    },
+    {
+      "path": ".agents/skills/memory-sync/references/registro.md",
+      "sha256": "99600a8477450d95e0fded581e410ab62596ebe3c68426bfe9fe332cd6f89fb3"
+    },
+    {
+      "path": ".agents/skills/memory-sync/references/resumos.md",
+      "sha256": "e5d39ce45a4397e5494d9a6c83a0a20ffd3cc611a7e6e9acc9b79564cdc16220"
+    },
+    {
+      "path": ".agents/skills/memory-sync/scripts/Memory.ps1",
+      "sha256": "bb45a8f7b823b3bf3c899fb40f5844d9e60fa9dad88298e343b1dfcf7d053599"
+    },
+    {
+      "path": ".agents/skills/memory-sync/SKILL.md",
+      "sha256": "cdb94fdaf217c0e77bfdd60db99feafdced867f5052b1d0ed8c98dfb5da92008"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "3ab1a07f6589434235c4c86d789537513f2b56c281f2a50728a7db10bbde7cea"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "6853889d26702f4b81bac23c99b0314ed87caccc2ffa651d1bfd2ced667f29a5"
+    },
+    {
+      "path": "GUIA-LOGISTICA.md",
+      "sha256": "53d02a2d882d9e67b5e9dee40a8bd86067eeb0763db38966cdedc803baf9e9da"
+    }
+  ]
+}
